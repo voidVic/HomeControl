@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_config.xsd">
+  <TargetSet version="5.0" toolVersion="4.2.0">
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2019-07-16 11:11:51" name="lifx_3D" targetId="74a3871f349f4f6ba4b03e9d794d95bc" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2019-07-16 10:55:31" name="hue_3D" targetId="659ac664305b4f7397ef74f52046dde4" version="2.0" />
+  </TargetSet>
+</QCARInfo>
